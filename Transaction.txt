@@ -1,0 +1,25 @@
+Deposit: 2000.000000 to account 1001
+Timestamp: Fri Jul 31 18:46:24 2026
+Operation: Deposit amount: 400.000000 Account: 1001
+------------------------
+Timestamp: Fri Jul 31 18:46:45 2026
+Operation: Withdraw amount: 800.000000 Account: 1001
+------------------------
+Timestamp: Fri Jul 31 18:49:40 2026
+Operation: Transfer amount: 500.000000 From: 1001 To: 1002
+------------------------
+Timestamp: Fri Jul 31 19:08:34 2026
+Operation: Transfer amount: 400.000000 From: 1001 To: 1002
+------------------------
+Timestamp: Fri Jul 31 23:13:12 2026
+Operation: Deposit amount: 1000.000000 Account: 1001
+------------------------
+Timestamp: Fri Jul 31 23:13:23 2026
+Operation: Withdraw amount: 500.000000 Account: 1002
+------------------------
+Timestamp: Fri Jul 31 23:13:41 2026
+Operation: Transfer amount: 700.000000 From: 1001 To: 1002
+------------------------
+Timestamp: Fri Jul 31 23:15:53 2026
+Operation: Deposit amount: 2000.000000 Account: 1001
+------------------------
